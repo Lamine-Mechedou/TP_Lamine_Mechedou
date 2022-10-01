@@ -1,0 +1,88 @@
+body{
+  
+    
+
+    background: linear-gradient(rgba(0, 0, 0, 0.473), rgba(0, 0, 0, 0.459)), url("imagenesConferencia/ba1.jpg"); 
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: -200px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    float: right;
+    margin-right:0px;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 26px 8px;
+    text-decoration: none;
+  }
+
+
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+    color:#04AA6D;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+
+
+  #texto{
+    color:aliceblue;
+    margin-top: 200px;
+    margin-left: 600px;
+   
+  
+    width: 600px;
+    word-wrap: break-word; 
+
+  }
+
+
+  button {
+    padding: 15px 25px;
+    color: #eee;
+    border: 1px whitesmoke solid;
+    background-color: transparent;
+    font-weight:bolder;
+    padding: 8px;
+  }
+#botones{
+margin-left: 800px;
+}
+    
+  
+  button:hover {
+    background-color: #04AA6D;
+  }
+
+  span{
+    background: linear-gradient(rgba(0, 0, 0, 0.473), rgba(0, 0, 0, 0.459)), url("imagenesConferencia/ba1.jpg"); 
+  }
+
+ #lado{
+
+ }

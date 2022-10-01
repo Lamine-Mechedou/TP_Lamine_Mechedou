@@ -1,0 +1,32 @@
+img{
+  width:50%;
+  height: 100%;
+ 
+
+}
+
+#columna2{
+  border:black solid 1px;
+  height: 400px;
+  width:50%;
+  margin-top: -408px;
+  float: right;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.774);
+ 
+}
+
+#titulo{
+  font-size: larger;
+  font-weight: bolder;
+  
+}
+
+button{
+  color:white;
+  border:white solid 1px;
+  background-color:rgba(0, 0,0,  0.774);
+  padding:10px;
+
+}
+
